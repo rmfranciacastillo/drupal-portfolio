@@ -1,0 +1,16 @@
+uuid: 6669efbd-1ec4-481f-af94-76c04527a648
+langcode: en
+status: true
+dependencies: {  }
+id: staging
+label: Staging
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: /staging
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }

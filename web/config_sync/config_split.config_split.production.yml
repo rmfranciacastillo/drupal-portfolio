@@ -1,0 +1,16 @@
+uuid: 977da0bb-deac-4d02-8f0d-a109112b3b3d
+langcode: en
+status: true
+dependencies: {  }
+id: production
+label: Production
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: prod
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }

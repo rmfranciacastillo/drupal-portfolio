@@ -1,0 +1,16 @@
+uuid: e4f16c5f-b988-40de-aa0a-8cc983b3d6c1
+langcode: en
+status: true
+dependencies: {  }
+id: test
+label: Test
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: test
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }

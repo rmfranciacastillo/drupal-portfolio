@@ -1,0 +1,16 @@
+uuid: 28e92283-2dcf-47cc-8797-519dbbf33070
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: Development
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: dev
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }
