@@ -45,6 +45,7 @@
             "drupal/core-recipe-unpack": true,
             "php-http/discovery": true,
             "php-tuf/composer-integration": true,
+            "phpro/grumphp-shim": true,
             "phpstan/extension-installer": true,
             "tbachert/spi": true
         },
@@ -109,5 +110,8 @@
                 "      composer remove drupal/core-project-message"
             ]
         }
+    },
+    "require-dev": {
+        "phpro/grumphp-shim": "^2.18"
     }
 }
