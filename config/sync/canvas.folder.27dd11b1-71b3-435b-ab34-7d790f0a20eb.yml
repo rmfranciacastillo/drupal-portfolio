@@ -1,0 +1,9 @@
+uuid: 27dd11b1-71b3-435b-ab34-7d790f0a20eb
+langcode: en
+status: true
+dependencies: {  }
+name: Other
+configEntityTypeId: component
+weight: 0
+items:
+  - sdc.olivero.teaser
